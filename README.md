@@ -112,7 +112,7 @@ Customers with similar income levels displayed different spending patterns, prov
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](Dashboard.png)
 
 ---
 
